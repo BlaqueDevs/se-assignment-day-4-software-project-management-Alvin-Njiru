@@ -104,6 +104,10 @@ Helps balance workloads by visualizing who is responsible for each task and when
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 
+My software aims to address:
+- Limited access to market prices and buyers.
+- Difficulty getting quality seeds, fertilizers, and farming advice.
+- Unpredictable weather patterns impacting yields.
 
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
